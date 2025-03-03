@@ -102,7 +102,7 @@
         <dependency>
             <groupId>org.glassfish.grizzly</groupId>
             <artifactId>grizzly-http-client</artifactId>
-            <version>1.14</version>
+            <version>1.16</version>
         </dependency>
 
         <dependency>
